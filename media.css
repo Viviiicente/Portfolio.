@@ -1,0 +1,131 @@
+@media (min-width: 300px) and (max-width: 770px) { 
+    header .menu{
+        margin: auto;
+        justify-content:center ;
+        font-size: 11px;
+        
+    }
+
+#home{
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   
+}
+
+#home .home2 h1 {
+ font-size: 24px;
+}
+
+
+
+#home .home2 p {
+    display: flex;
+    margin-top: 10px ;
+   width: 300px;
+    font-size: 16px;
+    text-align: center;
+}
+
+
+
+
+    #bola img {
+        margin: auto;
+       width: 250px;
+       height: 250px;
+    }
+  
+
+
+
+    #Sobre {
+        display: flex;
+        margin: auto;
+    flex-direction: column;
+   justify-content: center;
+}
+
+.eu{
+    width: 250px;
+}
+
+
+
+.p p {
+ 
+    font-size: 14px;
+     text-align: center;
+}
+
+
+
+#Resumo{
+    margin: auto;
+    justify-content: center;
+    
+}
+    
+.resu1{
+   
+    flex-direction: column;
+}
+.resutext{
+    margin: auto;
+}
+
+#projetos{
+    margin: auto;
+    justify-content: center;
+   
+    
+   
+}
+
+   
+   
+
+#Skills  {
+    margin: auto;
+    justify-content: center;
+    text-align: center;
+    
+
+}
+
+.box {
+ display: flex;
+ margin: auto;
+}
+
+
+
+#Contato{
+    
+    margin: auto;
+    justify-content: center;
+   
+    
+}
+
+.content-left span{
+    font-size: 14 px;
+}
+
+.content-contato{
+    margin: auto;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 14px;
+}
+
+.content-contato input {
+    width: 350px;
+}
+.content-contato textarea{
+    width: 370px;
+}
+
+
+
+}
